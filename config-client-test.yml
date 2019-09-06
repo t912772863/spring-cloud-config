@@ -1,0 +1,6 @@
+info:
+  profile: dev
+  from: git
+
+test: test test value from github.
+
